@@ -6,3 +6,4 @@ Online democracy project
 - [Constitution of Asgardia](https://asgardia.space/en/page/constitution)
 - [Electoral System Information](http://aceproject.org/)
 - [EU Treaties In Force](https://eur-lex.europa.eu/collection/eu-law/treaties/treaties-force.html)
+- [Federalist Papers](https://www.congress.gov/resources/display/content/The+Federalist+Papers)

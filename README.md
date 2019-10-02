@@ -2,5 +2,5 @@
 Online democracy project
 
 # Useful Links
-[Constitutional research](https://www.constituteproject.org)
-[Electoral Information](http://aceproject.org/)
+- [Constitutional research](https://www.constituteproject.org)
+- [Electoral System Information](http://aceproject.org/)

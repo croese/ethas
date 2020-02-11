@@ -10,3 +10,5 @@ Online democracy project
 
 # Elections
 - [Electoral System Information](http://aceproject.org/)
+- [Voting Methods](https://plato.stanford.edu/entries/voting-methods/)
+- [Electoral System Glossary](https://www.electionscience.org/learn/electoral-system-glossary/)

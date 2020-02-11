@@ -15,16 +15,23 @@ Online democracy project
 
 # Voting Theory Notes
 
-### Desirable properties for a voting system
-- **Anonymous**: No voter is preferred over any other. If you swap any two voters' ballots, the outcome won't change.
-- **Neutral**: No candidate is preferred over any other. (Two-candidate scenario) If you switch all of the voters' ballot choices to the other candidate, the election results would also switch.
-- **Monotonic**: Gaining votes should not turn a winning candidate into a losing one nor should losing votes turn a losing candidate into a winning candidate.
+#### Desirable properties for a voting system
+- **Anonymous:** No voter is preferred over any other. If you swap any two voters' ballots, the outcome won't change.
+- **Neutral:** No candidate is preferred over any other. (Two-candidate scenario) If you switch all of the voters' ballot choices to the other candidate, the election results would also switch.
+- **Monotonic:** Gaining votes should not turn a winning candidate into a losing one nor should losing votes turn a losing candidate into a winning candidate.
+
+#### Example Voting Systems
+- **Dictatorship:** Single voter determines the winner of an election.
+- **Imposed Rule:** Winner is chosen before election and votes are ignored.
+- **Minority Rule:** Votes are totalled up and the winner is the candidate that receives the least number of votes.
+- **Majority Rule:** Votes are totalled up and the winner is the candidate that receives the greatest number of votes.
 
 |               | Anonymous? | Neutral? | Monotone? |
 |:---           | :---:      | :---:    | :---:     |
 | Dictatorship  | No         | Yes      | Yes       |
 | Imposed Rule  | Yes        | No       | Yes       |
 | Minority Rule | Yes        | Yes      | No        |
-| Majority Rule |   Yes      | Yes      | Yes       |
+| Majority Rule | Yes        | Yes      | Yes       |
 
-**Quota System**: A voting system with a number *q*, called the *quota*, such that a candidate wins if and only if they receive *q* votes.
+**Quota System:** A voting system with a number *q*, called the *quota*, such that a candidate wins if and only if they receive *q* votes.
+
